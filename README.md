@@ -1,2 +1,2 @@
 # Tree
-C++ Data Structures
+C++ Data Structures.
